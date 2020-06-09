@@ -1,1 +1,33 @@
-
+<!doctype html>
+<html>
+<head>
+	<title> Module2-solution </title>
+	
+</head>
+<body>
+	<h1 id="menu"> Our Menu </h1>
+	<div id="box">
+		<div id="topic1">  Chicken </div>
+		<div id="content">
+			Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit error quis ab perspiciatis eos inventore recusandae iste itaque numquam facilis, tenetur. Doloribus officiis quae facilis, nisi, ex similique. Animi, perferendis.
+		</div>
+	</div>
+	<div id=box2>
+	</div>
+	<div id="box">
+		<div id="topic2">  Beef </div>
+		<div id="content">
+			Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit error quis ab perspiciatis eos inventore recusandae iste itaque numquam facilis, tenetur. Doloribus officiis quae facilis, nisi, ex similique. Animi, perferendis.
+		</div>
+	</div>
+	<div id=box2>
+	</div>
+	<div id="box">
+		<div id="topic3">  Sushi </div>
+		<div id="content">
+			Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit error quis ab perspiciatis eos inventore recusandae iste itaque numquam facilis, tenetur. Doloribus officiis quae facilis, nisi, ex similique. Animi, perferendis.
+		</div>
+	
+	
+</body>
+</html>
