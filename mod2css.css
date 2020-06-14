@@ -16,6 +16,8 @@
 }
 #menu{
 	background-color : yellow;
+	opacity : 0.6;
+	border-style : double;
 }
 #box2 {
 
