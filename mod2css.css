@@ -13,6 +13,9 @@
   overflow: auto;
   
 }
+#menu{
+	background-color : yellow;
+}
 #box2 {
 
 	width: 5%; 
