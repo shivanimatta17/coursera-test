@@ -18,6 +18,7 @@
 	background-color : yellow;
 	background-opacity : 0.6;
 	border-style : double;
+	position : fixed;
 }
 #box2 {
 
